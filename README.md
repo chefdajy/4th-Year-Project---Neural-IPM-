@@ -1,1 +1,1 @@
-# Repository to share code for building an IPM, and later a Neural IPM.
+# Repository for code sharing on building and applying a Neural IPM.
